@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cookcite/static/css/main.fe7beeeb.chunk.css",
+    "main.js": "/cookcite/static/js/main.adb62094.chunk.js",
+    "main.js.map": "/cookcite/static/js/main.adb62094.chunk.js.map",
+    "runtime-main.js": "/cookcite/static/js/runtime-main.a61483ff.js",
+    "runtime-main.js.map": "/cookcite/static/js/runtime-main.a61483ff.js.map",
+    "static/js/2.946d19fd.chunk.js": "/cookcite/static/js/2.946d19fd.chunk.js",
+    "static/js/2.946d19fd.chunk.js.map": "/cookcite/static/js/2.946d19fd.chunk.js.map",
+    "index.html": "/cookcite/index.html",
+    "static/css/main.fe7beeeb.chunk.css.map": "/cookcite/static/css/main.fe7beeeb.chunk.css.map",
+    "static/js/2.946d19fd.chunk.js.LICENSE.txt": "/cookcite/static/js/2.946d19fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a61483ff.js",
+    "static/js/2.946d19fd.chunk.js",
+    "static/css/main.fe7beeeb.chunk.css",
+    "static/js/main.adb62094.chunk.js"
+  ]
+}
